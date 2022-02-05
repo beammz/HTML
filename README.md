@@ -1,3 +1,3 @@
-<img src="imagens/mascote.png" align="right" width="300">
+<img src="imagens/html.png" align="right" width="300">
 
-# HTML
+# HTML: ESTUDOS
