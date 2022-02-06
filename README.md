@@ -10,7 +10,7 @@
   <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="imagens/html.png" align="right" width="200">
+<img src="Imagens/html.png" align="right" width="200">
 
 <a id="sobre"></a>
 ## :bookmark: Sobre
@@ -24,7 +24,7 @@ HTML é um acrônimo para Hypertext (hipertexto) Markup (marcação) Language (l
 
 <a id="exercicios"></a>
 ## :pencil2: Exercícios
-* [HelloWorld!](https://github.com/beammz/HTML/tree/main/exercícios)
+* [HelloWorld!](https://github.com/beammz/HTML/tree/main/Exercícios)
 
 <a id="materiais"></a>
 ## :file_folder: Materiais Extras
