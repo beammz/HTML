@@ -27,6 +27,7 @@ HTML é um acrônimo para Hypertext (hipertexto) Markup (marcação) Language (l
 
 <a id="materiais"></a>
 ## :file_folder: Materiais Extras
+* [html5notesforprofessionals.pdf](https://github.com/beammz/HTML/tree/main/Materiais-Extras)
 
 <a id="como-contribuir"></a>
 ## :recycle: Como contribuir
