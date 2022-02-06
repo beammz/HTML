@@ -18,6 +18,9 @@ HTML é um acrônimo para Hypertext (hipertexto) Markup (marcação) Language (l
 
 <a id="conceitos"></a>
 ## :books: Conceitos
+* [Comentários]()
+* [Tags]()
+* [Atributos]()
 
 <a id="exercicios"></a>
 ## :pencil2: Exercícios
